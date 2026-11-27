@@ -1,0 +1,28 @@
+<p>With desktop icons on, the desktop shows your disks and what's in your Desktop folder, like the Finder on a Mac. The Mac and Windows styles show them; NeXT keeps the desktop clear.</p>
+<aside>
+  <h2>From the keyboard</h2>
+  <table>
+    <tr><td><kbd>Return</kbd> or <kbd>⌘↓</kbd></td><td>Open</td></tr>
+    <tr><td><kbd>F2</kbd></td><td>Rename</td></tr>
+    <tr><td><kbd>⌘⌫</kbd></td><td>Move to the Trash</td></tr>
+    <tr><td><kbd>←</kbd> <kbd>→</kbd> <kbd>↑</kbd> <kbd>↓</kbd></td><td>Choose the next icon</td></tr>
+    <tr><td>Type a name</td><td>Choose the icon it starts</td></tr>
+  </table>
+  <tip>The NeXT style keeps the desktop clear. To show icons there, choose <b>Show</b> in Workspace → Preferences → Desktop → Desktop icons.</tip>
+  <related>
+    <ref id="eject">Ejecting a disk</ref>
+    <ref id="styles">Styles: NeXT, Mac and Windows</ref>
+    <ref book="Workspace" id="copying-and-moving">Copying and moving</ref>
+  </related>
+</aside>
+<legendfig src="desktop-icons.png" width="178">
+  <legend x="150" y="40"><b>NextBSD</b> is the startup disk. Disks you connect appear below it, and go when you eject them.</legend>
+  <legend x="150" y="130">Then what's in your <b>Desktop</b> folder, in the order you sort it.</legend>
+  <legend x="16" y="300">Right-click an item for Open, Get Info, Rename, Copy, Move to Trash and more.</legend>
+</legendfig>
+<h2>Arranging icons</h2>
+<ul>
+  <li>Icons stay where you put them. New ones take the next free place, down each column from the corner.</li>
+  <li>Right-click the desktop and choose <b>Sort By</b> to order them by name, kind or date, or <b>Clean Up</b> to line them up again.</li>
+  <li>Drop files on a folder or disk icon to copy them there.</li>
+</ul>

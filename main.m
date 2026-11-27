@@ -20,8 +20,18 @@
 */
 
 #import <AppKit/AppKit.h>
+#import "HPController.h"
 
 int main (int argc, const char **argv)
 {
-  return NSApplicationMain (argc, argv);
+  CREATE_AUTORELEASE_POOL(pool);
+  HPController *controller;
+
+  [NSApplication sharedApplication];
+  controller = [HPController new];
+  [NSApp setDelegate: controller];
+  [NSApp run];
+  RELEASE(controller);
+  RELEASE(pool);
+  return 0;
 }

@@ -1,3 +1,12 @@
+2026-11-27 Joseph Maloney
+
+	Help.app for NextBSD (nextbsd/nextbsd#714): a new window (toolbar,
+	books and topics sidebar, pages with figures, numbered callouts,
+	tips and key tables, search across every book) in place of the
+	document-based viewer; XLP read by HPXLP.m, with <aside>, <tip>,
+	<kbd>, <table>, <related> and numbered <legendfig> legends added.
+	NextBSD Help comes in Resources/NextBSD.help. See README.md.
+
 2021-01-29 Riccardo Mottola <rm@gnu.org>
 
 	* Gorm/MainMenu.gorm

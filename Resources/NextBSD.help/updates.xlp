@@ -1,0 +1,26 @@
+<p><b>Update</b>, in Applications, installs new versions of NextBSD. It checks only when you ask it to.</p>
+<ol>
+  <li>Open Update and click <b>Check for Updates</b>.</li>
+  <li>When an update is available, click <b>Download</b>. You can keep working while it downloads.</li>
+  <li>Click <b>Install Now…</b> and give an administrator's name and password.</li>
+  <li>Restart when it's installed. <b>Later</b> leaves it until you restart.</li>
+</ol>
+<aside>
+  <h2>Installed Versions</h2>
+  <table>
+    <tr><td><b>Running</b></td><td>The version you're using now</td></tr>
+    <tr><td><b>Starts next</b></td><td>The one NextBSD starts next time</td></tr>
+    <tr><td><b>Restart Into…</b></td><td>Go back to that version</td></tr>
+    <tr><td><b>Remove…</b></td><td>Free the space it uses</td></tr>
+  </table>
+  <tip><b>Keep the most recent versions</b> chooses how many stay installed: older ones are removed after an update.</tip>
+  <related>
+    <ref id="keyboard-shortcuts">Keyboard shortcuts</ref>
+  </related>
+</aside>
+<h2>Going back to an earlier version</h2>
+<p>A new version is installed alongside the one you're using, and starts when you restart. The version you had stays installed, so if something goes wrong you can go back to it.</p>
+<p>Choose <b>Update → Installed Versions…</b>, then <b>Restart Into…</b> beside the version you want. Apps and system files go back to that version; your accounts, files and settings stay as they are.</p>
+<h2>Choosing a version when NextBSD starts</h2>
+<p>With more than one version installed, NextBSD shows the <b>Startup Manager</b> for a few seconds each time it starts; press any key to choose. Hold <kbd>⌥</kbd> to open it without waiting. Use the arrow keys and <kbd>Return</kbd>. A version chosen there starts once; to change the one that starts every time, use Installed Versions.</p>
+<note>Installed Versions needs NextBSD installed on ZFS. An installation on UFS is updated in place and can't go back.</note>

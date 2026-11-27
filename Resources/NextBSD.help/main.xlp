@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NextBSD Help: the system's book, which comes with Help.app. The format
+     is XLP; see this repository's README. -->
+<document>
+<header>
+  <title>NextBSD Help</title>
+  <icon src="NextBSD.png"/>
+</header>
+
+<chapter id="getting-started" name="Getting started" src="getting-started.xlp" keywords="welcome overview start introduction"/>
+<chapter id="styles" name="Styles: NeXT, Mac and Windows" src="styles.xlp" keywords="style look appearance dark light theme menu bar taskbar preferences"/>
+<chapter id="desktop" name="The desktop" src="desktop.xlp" keywords="background wallpaper desktop">
+  <section id="desktop-icons" name="Desktop icons" src="desktop-icons.xlp" keywords="icons disks desktop folder"/>
+  <section id="eject" name="Ejecting a disk" src="eject.xlp" keywords="eject unmount usb disk drive remove"/>
+</chapter>
+<chapter id="dock" name="The Dock" src="dock.xlp" keywords="dock taskbar start menu recycler trash extras"/>
+<chapter id="file-viewer" name="File Viewer" src="file-viewer.xlp" keywords="workspace files folders finder"/>
+<chapter id="keyboard-shortcuts" name="Keyboard shortcuts" src="keyboard-shortcuts.xlp" keywords="keys keyboard shortcuts command"/>
+<chapter id="updates" name="Updates and earlier versions" src="updates.xlp" keywords="update upgrade installed versions boot environment rollback go back startup manager"/>
+</document>

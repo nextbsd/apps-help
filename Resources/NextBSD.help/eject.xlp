@@ -1,0 +1,8 @@
+<p>Eject a disk before you unplug it, so nothing is lost.</p>
+<ul>
+  <li>On the desktop, right-click the disk and choose <b>Eject</b>.</li>
+  <li>In a File Viewer, right-click the disk and choose <b>Eject</b>.</li>
+</ul>
+<p>When the disk has gone from the desktop, you can unplug it. Nothing is shown when it works.</p>
+<caution label="Disk Not Ejected">When an app is still using something on the disk, NextBSD says so and leaves it connected. Quit that app, or close its files, and try again.</caution>
+<p>The startup disk, NextBSD, can't be ejected.</p>

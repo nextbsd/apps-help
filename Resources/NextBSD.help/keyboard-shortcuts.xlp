@@ -1,0 +1,46 @@
+<p>Menu shortcuts use the Command key, <kbd>⌘</kbd>. On a PC keyboard that is the Start (Windows) key. Each app's menus show its own shortcuts beside the commands.</p>
+<aside>
+  <h2>Everywhere</h2>
+  <table>
+    <tr><td><kbd>⌘?</kbd></td><td>Search help and the app's menus</td></tr>
+    <tr><td><kbd>⌃↑</kbd></td><td>Show every window</td></tr>
+    <tr><td><kbd>⌃↓</kbd></td><td>Show the app's windows</td></tr>
+    <tr><td><kbd>⌘M</kbd></td><td>Minimize the window</td></tr>
+    <tr><td><kbd>⌘W</kbd></td><td>Close the window</td></tr>
+    <tr><td><kbd>⌘Q</kbd></td><td>Quit the app</td></tr>
+  </table>
+  <tip>In the window overview, choose a window with the arrow keys and <kbd>Return</kbd>; <kbd>Esc</kbd> closes it.</tip>
+</aside>
+<h2>Workspace</h2>
+<table>
+  <tr><td><kbd>⌘N</kbd></td><td>New File Viewer window</td></tr>
+  <tr><td><kbd>⌘O</kbd></td><td>Open</td></tr>
+  <tr><td><kbd>⌘I</kbd></td><td>Get Info</td></tr>
+  <tr><td><kbd>⌃⌘T</kbd></td><td>Add to Favorites</td></tr>
+  <tr><td><kbd>⌘Z</kbd></td><td>Undo the last rename, move or new folder</td></tr>
+  <tr><td><kbd>⌘X</kbd> <kbd>⌘C</kbd> <kbd>⌘V</kbd></td><td>Cut, Copy, Paste</td></tr>
+  <tr><td><kbd>⌘A</kbd></td><td>Select All</td></tr>
+  <tr><td><kbd>⌘D</kbd></td><td>Duplicate</td></tr>
+  <tr><td><kbd>⌘.</kbd></td><td>Stop a copy or move</td></tr>
+  <tr><td><kbd>⌘1</kbd> <kbd>⌘2</kbd> <kbd>⌘3</kbd></td><td>List, Columns, Icons</td></tr>
+  <tr><td><kbd>⌘+</kbd> <kbd>⌘-</kbd></td><td>Larger, smaller icons</td></tr>
+  <tr><td><kbd>⌘H</kbd></td><td>Show hidden files</td></tr>
+  <tr><td><kbd>⌘R</kbd></td><td>Refresh</td></tr>
+  <tr><td><kbd>⌘F</kbd></td><td>Search</td></tr>
+  <tr><td><kbd>⌘[</kbd> <kbd>⌘]</kbd></td><td>Back, Forward</td></tr>
+  <tr><td><kbd>⌘U</kbd></td><td>The folder that holds this one</td></tr>
+  <tr><td><kbd>⌘G</kbd></td><td>Go to Folder</td></tr>
+  <tr><td><kbd>⌘,</kbd></td><td>Preferences</td></tr>
+</table>
+<h2>Files and the desktop</h2>
+<table>
+  <tr><td><kbd>Return</kbd> or <kbd>⌘↓</kbd></td><td>Open</td></tr>
+  <tr><td><kbd>F2</kbd></td><td>Rename; <kbd>Return</kbd> keeps the name, <kbd>Esc</kbd> the old one</td></tr>
+  <tr><td><kbd>⌘⌫</kbd></td><td>Move to the Trash (on the desktop)</td></tr>
+</table>
+<h2>When NextBSD starts</h2>
+<table>
+  <tr><td>Hold <kbd>⌥</kbd></td><td>The Startup Manager: choose a version to start</td></tr>
+  <tr><td><kbd>V</kbd></td><td>Start showing every message</td></tr>
+  <tr><td><kbd>S</kbd></td><td>Start in single-user mode</td></tr>
+</table>
