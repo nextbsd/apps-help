@@ -1,0 +1,29 @@
+<p>A File Viewer is a Workspace window showing one folder. Click the cube in the Dock, or choose <b>File → New Window</b> in Workspace, to open one.</p>
+<aside>
+  <h2>From the keyboard</h2>
+  <table>
+    <tr><td><kbd>Return</kbd> or <kbd>⌘↓</kbd></td><td>Open</td></tr>
+    <tr><td><kbd>F2</kbd></td><td>Rename</td></tr>
+    <tr><td><kbd>⌘1</kbd> <kbd>⌘2</kbd> <kbd>⌘3</kbd></td><td>List, Columns, Icons</td></tr>
+    <tr><td><kbd>⌘[</kbd> <kbd>⌘]</kbd></td><td>Back, Forward</td></tr>
+    <tr><td><kbd>⌘U</kbd></td><td>The folder that holds this one</td></tr>
+    <tr><td><kbd>⌘G</kbd></td><td>Go to a folder by its path</td></tr>
+    <tr><td><kbd>⌘F</kbd></td><td>Search</td></tr>
+    <tr><td><kbd>⌘I</kbd></td><td>Get Info</td></tr>
+  </table>
+  <related>
+    <ref book="Workspace" id="file-viewer">Workspace Help</ref>
+    <ref id="keyboard-shortcuts">Keyboard shortcuts</ref>
+  </related>
+</aside>
+<legendfig src="file-viewer.png" width="440">
+  <legend x="300" y="50">The <b>toolbar</b>: back, forward, up, home, the three views, and the search field.</legend>
+  <legend x="110" y="84">The <b>Locations list</b>: your home folder and its folders, Favorites, the domains, and your disks.</legend>
+  <legend x="600" y="88">The <b>path</b> of the folder: choose a folder that holds this one to go there.</legend>
+  <legend x="300" y="645">The <b>status line</b>.</legend>
+</legendfig>
+<ul>
+  <li>Drag files to copy them; <b>Edit → Cut</b> and <b>Paste</b> moves them.</li>
+  <li><b>File → Add to Favorites</b> <kbd>⌃⌘T</kbd> adds a folder to the Locations list.</li>
+  <li>Workspace Help has more: Workspace's Help menu, or the Workspace book here.</li>
+</ul>

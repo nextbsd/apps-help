@@ -1,0 +1,23 @@
+<p>The Dock holds the apps you keep there, the apps that are open, your minimized windows, and the status extras.</p>
+<aside>
+  <h2>Keep, move and remove</h2>
+  <table>
+    <tr><td><b>Keep an app</b></td><td>Drag it from a File Viewer into the Dock, or choose <b>Keep in Dock</b> in its tile's menu.</td></tr>
+    <tr><td><b>Move a tile</b></td><td>Drag it along the Dock.</td></tr>
+    <tr><td><b>Remove one</b></td><td>Choose <b>Remove from Dock</b>, or drag it out of the Dock.</td></tr>
+  </table>
+  <tip>Right-click an app's tile for its windows, <b>Open At Login</b>, <b>Show In File Viewer</b> and <b>Quit</b>.</tip>
+  <related>
+    <ref id="styles">Styles: NeXT, Mac and Windows</ref>
+    <ref id="getting-started">Getting started</ref>
+  </related>
+</aside>
+<legendfig src="dock.png" width="320">
+  <legend x="64" y="16"><b>Workspace</b>, the cube, is first: click it for a File Viewer. In the Windows style it is <b>Start</b>.</legend>
+  <legend x="144" y="16">Your <b>apps</b>. A dot shows which are open.</legend>
+  <legend x="292" y="16">The <b>Recycler</b> is always last. Drop files on it to throw them away.</legend>
+</legendfig>
+<h2>Where it is and how it looks</h2>
+<p>Choose the Dock's position and style in <b>Workspace → Preferences… → Desktop</b>, and its size, magnification and dots in <b>Preferences → Dock</b>. <b>Status extras</b> there chooses which extras are shown. In the Mac style the extras are at the right of the menu bar.</p>
+<h2>Start</h2>
+<p>In the Windows style the Dock is a taskbar, and its first tile is <b>Start</b>. Start's search field finds apps, settings and files in your Desktop, Documents and Downloads folders; <b>All apps</b> lists every app, and the power button has Log Out, Restart and Shut Down.</p>

@@ -1,0 +1,29 @@
+{
+    ApplicationName = Help;
+    ApplicationDescription = "NextBSD's help: a book for the system and for each app";
+    ApplicationRelease = "1.0";
+    Authors = (
+	"Nicolas Roard",
+	"Riccardo Mottola",
+	"Joseph Maloney"
+    );
+    Copyright = "Copyright (C) 2003 Nicolas Roard, 2020-2026 Riccardo Mottola, 2026 Joseph Maloney";
+    CopyrightDescription = "This program is released under the GNU GPL 2 or later";
+    CFBundleIdentifier = "org.nextbsd.Help";
+    CFBundleName = Help;
+    NSExecutable = Help;
+    NSIcon = "HelpViewer.tiff";
+    NSPrincipalClass = NSApplication;
+    NSRole = Application;
+    NSTypes = (
+	{
+	    NSHumanReadableName = "Help Book";
+	    NSIcon = "Icon-hlpd.tiff";
+	    NSName = help;
+	    NSRole = Viewer;
+	    NSUnixExtensions = (
+		help
+	    );
+	}
+    );
+}

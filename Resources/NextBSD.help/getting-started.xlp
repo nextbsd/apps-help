@@ -1,0 +1,26 @@
+<p>Welcome to NextBSD. Here is what's on the screen, and where to find things.</p>
+<aside>
+  <h2>Where things are</h2>
+  <table>
+    <tr><td><b>Workspace</b></td><td>Your files, the desktop, and the desktop's Preferences</td></tr>
+    <tr><td><b>The Dock</b></td><td>Your apps, minimized windows, and status extras</td></tr>
+    <tr><td><b>Settings</b></td><td>Displays, Network, Sound, Keyboard and the rest, in Applications</td></tr>
+    <tr><td><b>Update</b></td><td>New versions of NextBSD, and earlier ones</td></tr>
+    <tr><td><b>Help</b></td><td>This book, and a book for each app, from its Help menu</td></tr>
+  </table>
+  <tip>Every app's Help menu starts with <b>Search</b>: type a few words to find a help topic, or one of the app's own menu commands. <kbd>⌘?</kbd> opens it.</tip>
+  <related>
+    <ref id="styles">Styles: NeXT, Mac and Windows</ref>
+    <ref id="keyboard-shortcuts">Keyboard shortcuts</ref>
+  </related>
+</aside>
+<legendfig src="getting-started.png" width="460">
+  <legend x="250" y="14">The <b>menus</b> of the app you're using. Where they are depends on your style.</legend>
+  <legend x="1320" y="60">The <b>desktop</b>, with your disks and what's in your Desktop folder.</legend>
+  <legend x="700" y="300">A <b>File Viewer</b> window: Workspace, NextBSD's file manager.</legend>
+  <legend x="800" y="868">The <b>Dock</b>: your apps, and the status extras such as the clock.</legend>
+</legendfig>
+<h2>Your style</h2>
+<p>NextBSD can look and work like NeXTSTEP, like a Mac, or like Windows: where the menus are, where the Dock is, and what the window buttons look like. Choose one in <b>Workspace → Preferences… → Desktop</b>, and change any part of it after. Dark or Light is chosen there too.</p>
+<h2>Logging out and shutting down</h2>
+<p>Log Out, Restart and Shut Down ask first. They are at the end of Workspace's menu in the NeXT style, in the <b>NextBSD</b> menu (the cube) at the left of the menu bar in the Mac style, and behind the power button in Start in the Windows style.</p>

@@ -1,0 +1,24 @@
+<p>A style sets how the desktop looks and works. Choose one in <b>Workspace → Preferences… → Desktop</b>, under <b>Choose your style</b>. Each is a starting point: every setting below it can still be changed, and <b>Use theme default</b> puts one back.</p>
+<legendfig src="styles.png" width="400">
+  <legend x="515" y="150"><b>Choose your style</b>: NeXT, Mac or Windows.</legend>
+  <legend x="515" y="340">Then any setting of it, such as where the Dock is or how windows minimize.</legend>
+  <legend x="515" y="475"><b>Appearance</b>: Dark or Light.</legend>
+</legendfig>
+<h2>What each style sets</h2>
+<table>
+  <tr><th></th><th>NeXT</th><th>Mac</th><th>Windows</th></tr>
+  <tr><td><b>Menus</b></td><td>Floating, down the left</td><td>A menu bar at the top</td><td>In each window</td></tr>
+  <tr><td><b>Dock</b></td><td>At the right, tiles</td><td>At the bottom</td><td>A taskbar with Start</td></tr>
+  <tr><td><b>Window buttons</b></td><td>Minimize left, close right</td><td>Close, minimize, zoom at the left</td><td>Minimize, maximize, close at the right</td></tr>
+  <tr><td><b>Scroll bars</b></td><td>At the left</td><td>At the right</td><td>At the right, an arrow at each end</td></tr>
+  <tr><td><b>Desktop icons</b></td><td>Hidden</td><td>Shown</td><td>Shown</td></tr>
+</table>
+<tip>The NeXT style always stacks windows. The Mac and Windows styles can tile them instead: choose <b>Tiling</b> in <b>Window mode</b>.</tip>
+<h2>Dark and Light</h2>
+<p><b>Appearance</b> chooses Dark or Light for every app. Apps that are open change at once.</p>
+<h2>Stacking and tiling</h2>
+<p>With <b>Window mode</b> set to <b>Tiling</b>, windows share the screen side by side instead of overlapping. The <b>Tiling</b> settings below it choose the layout and the gaps between windows. Stacking and tiling each keep their own Dock position and menu style.</p>
+<related>
+  <ref id="desktop-icons">Desktop icons</ref>
+  <ref id="dock">The Dock</ref>
+</related>
